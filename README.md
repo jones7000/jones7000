@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+*uploading some old and new projects from time to time*
+
 <!--
 **jones7000/jones7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
